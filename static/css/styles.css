@@ -1,0 +1,20 @@
+
+
+main{
+    text-emphasis-color: rgb(255, 255, 255);
+}
+main{
+    text-align: left;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+}
+.card-text{
+    color: black;
+}
+.Encabezado{
+    color: black;
+}
